@@ -1,0 +1,7 @@
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-4\bin\Debug\D1-4.exe.config
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-4\bin\Debug\D1-4.exe
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-4\bin\Debug\D1-4.pdb
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-4\obj\Debug\D1-4.csprojAssemblyReference.cache
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-4\obj\Debug\D1-4.csproj.CoreCompileInputs.cache
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-4\obj\Debug\D1-4.exe
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-4\obj\Debug\D1-4.pdb

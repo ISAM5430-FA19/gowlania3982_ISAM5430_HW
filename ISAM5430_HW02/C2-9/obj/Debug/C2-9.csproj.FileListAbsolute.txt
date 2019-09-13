@@ -1,0 +1,6 @@
+C:\Users\gowla\source\repos\ISAM5430_HW02\C2-9\bin\Debug\C2-9.exe.config
+C:\Users\gowla\source\repos\ISAM5430_HW02\C2-9\bin\Debug\C2-9.exe
+C:\Users\gowla\source\repos\ISAM5430_HW02\C2-9\bin\Debug\C2-9.pdb
+C:\Users\gowla\source\repos\ISAM5430_HW02\C2-9\obj\Debug\C2-9.csproj.CoreCompileInputs.cache
+C:\Users\gowla\source\repos\ISAM5430_HW02\C2-9\obj\Debug\C2-9.exe
+C:\Users\gowla\source\repos\ISAM5430_HW02\C2-9\obj\Debug\C2-9.pdb

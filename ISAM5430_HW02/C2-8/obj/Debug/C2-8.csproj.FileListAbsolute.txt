@@ -1,0 +1,7 @@
+C:\Users\gowla\source\repos\ISAM5430_HW02\C2-8\bin\Debug\C2-8.exe.config
+C:\Users\gowla\source\repos\ISAM5430_HW02\C2-8\bin\Debug\C2-8.exe
+C:\Users\gowla\source\repos\ISAM5430_HW02\C2-8\bin\Debug\C2-8.pdb
+C:\Users\gowla\source\repos\ISAM5430_HW02\C2-8\obj\Debug\C2-8.csprojAssemblyReference.cache
+C:\Users\gowla\source\repos\ISAM5430_HW02\C2-8\obj\Debug\C2-8.csproj.CoreCompileInputs.cache
+C:\Users\gowla\source\repos\ISAM5430_HW02\C2-8\obj\Debug\C2-8.exe
+C:\Users\gowla\source\repos\ISAM5430_HW02\C2-8\obj\Debug\C2-8.pdb

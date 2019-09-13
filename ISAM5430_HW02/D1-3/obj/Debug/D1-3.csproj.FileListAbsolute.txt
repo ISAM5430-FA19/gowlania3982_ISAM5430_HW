@@ -1,0 +1,6 @@
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-3\obj\Debug\D1-3.csproj.CoreCompileInputs.cache
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-3\bin\Debug\D1-3.exe.config
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-3\bin\Debug\D1-3.exe
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-3\bin\Debug\D1-3.pdb
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-3\obj\Debug\D1-3.exe
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-3\obj\Debug\D1-3.pdb

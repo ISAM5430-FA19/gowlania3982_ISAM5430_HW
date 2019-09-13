@@ -1,0 +1,7 @@
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-6\bin\Debug\D1-6.exe.config
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-6\bin\Debug\D1-6.exe
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-6\bin\Debug\D1-6.pdb
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-6\obj\Debug\D1-6.csprojAssemblyReference.cache
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-6\obj\Debug\D1-6.csproj.CoreCompileInputs.cache
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-6\obj\Debug\D1-6.exe
+C:\Users\gowla\source\repos\ISAM5430_HW02\D1-6\obj\Debug\D1-6.pdb
